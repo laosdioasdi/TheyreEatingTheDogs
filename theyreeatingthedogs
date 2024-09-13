@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haitians Eating Doges Coin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .main-content {
+            padding: 20px;
+            max-width: 1200px;
+            margin: auto;
+        }
+        .intro {
+            text-align: center;
+        }
+        .intro h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        .intro p {
+            font-size: 1.2em;
+            color: #555;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 40px;
+        }
+        .feature {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 30%;
+        }
+        .feature h3 {
+            font-size: 1.5em;
+            margin-bottom: 15px;
+        }
+        .feature p {
+            color: #666;
+        }
+        footer {
+            background-color: #222;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Haitians Eating Doges Coin</h1>
+        <p>The meme coin with a mission</p>
+    </header>
+
+    <div class="main-content">
+        <section class="intro">
+            <h2>Welcome to the Future of Fun & Finance</h2>
+            <p>Haitians Eating Doges is the next generation of meme coins, blending fun, culture, and community. Join the movement and ride the wave of the most exciting cryptocurrency ever!</p>
+        </section>
+
+        <section class="features">
+            <div class="feature">
+                <h3>Fast Transactions</h3>
+                <p>Experience lightning-fast transactions with Haitians Eating Doges. Built on a secure and decentralized network, your transfers are safe and swift.</p>
+            </div>
+
+            <div class="feature">
+                <h3>Community-Driven</h3>
+                <p>Our coin thrives on the strength of our community. We're here to have fun and support causes that matter.</p>
+            </div>
+
+            <div class="feature">
+                <h3>Built for Everyone</h3>
+                <p>Whether you're a crypto pro or a complete beginner, Haitians Eating Doges is designed to be easy to use and accessible to all.</p>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Haitians Eating Doges. All rights reserved.</p>
+    </footer>
+</body>
+</html>
